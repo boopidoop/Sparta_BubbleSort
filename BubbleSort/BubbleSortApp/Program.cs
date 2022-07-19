@@ -1,6 +1,4 @@
-﻿
-
-namespace BubbleSortApp;
+﻿namespace BubbleSortApp;
 
 public class Program
 {
